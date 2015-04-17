@@ -1,1 +1,1 @@
-var group = {0: "23754425"};
+window.__group_tsak = {0: "23754425"};
